@@ -1,0 +1,53 @@
+body {
+  font-family: Georgia, serif;
+  background: #211a3d;
+  color: #f8f4ff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #7662c0;
+  text-align: center;
+  padding: 20px;
+}
+
+nav a {
+  color: #c6b7ff;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+section {
+  background: #615595;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 800px;
+}
+
+.imagem {
+  text-align: center;
+  background: #615595;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.foto-mapa {
+  width: 90%;              
+  max-width: 650px;        
+  border-radius: 12px;     
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); 
+  margin-top: 10px;
+}
+
+.imagem p {
+  font-style: italic;
+  color: #000000;
+  margin-top: 10px;
+}
+
+h2 {
+  color: #c6b7ff;
+}

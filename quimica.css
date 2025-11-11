@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #00101a;
+  color: #e3f2fd;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #002b36;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #7dd3fc;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+section {
+  background: #4e98ae;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 800px;
+}
+
+.imagem {
+  text-align: center;
+  background: #4e98ae;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.foto-mapa {
+  width: 90%;              
+  max-width: 650px;        
+  border-radius: 12px;     
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); 
+  margin-top: 10px;
+}
+
+.imagem p {
+  font-style: italic;
+  color: #0000;
+  margin-top: 10px;
+}
+
+h2 {
+  color: #7dd3fc;
+}
